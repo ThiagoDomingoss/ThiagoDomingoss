@@ -1,4 +1,4 @@
-## const THIAGO DOMINGOS = {
+## const THIAGO_DOMINGOS = {
 
 ### DEV-TYPE: "Front-End",
 
@@ -6,7 +6,7 @@
 
 ### SOCIAL-MIDIA: [ <a href = "mailto:tdomingos26@gmail.com"><img height="20" width="70" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>, <a href="https://www.linkedin.com/in/thiago-domingos-143b51234/" target="_blank"><img height="20" width="70" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> ],
 
-### SOFT SKILLS: [ "Resiliência", "Colaboração", "Flexibilidade", "Orientação para resultados" ]
+### SOFT-SKILLS: [ "Resiliência", "Colaboração", "Flexibilidade", "Orientação para resultados" ]
 
 
 ## };
